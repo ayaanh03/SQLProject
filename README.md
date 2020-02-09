@@ -1,2 +1,3 @@
 # SQLProject
- Playing around with databases as part of a class project
+ Class project samples of using phpMyAdmin to create and popoulate databases coupled with Entity-Relationship-Diagrams and scripts.
+ 
